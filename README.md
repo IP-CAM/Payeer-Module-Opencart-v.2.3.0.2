@@ -1,8 +1,8 @@
 OpenCart 2.3.x
 ======
-Модуль оплаты Payeer
+Payeer payment module
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unpack the archive.
+Then follow the attached instructions
 
-Разрабатывался на версии CMS OpenCart 2.3.0.2
+Developed on CMS OpenCart version 2.3.0.2 
